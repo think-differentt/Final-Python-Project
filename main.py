@@ -1,4 +1,4 @@
-# <Author> Justin Lewis Carter
+# <Author> Think-differentt
 # <Date> 11OCT20
 # Program - This is a program that is used to get weather information from openweathermap
 # and display it to the user.
